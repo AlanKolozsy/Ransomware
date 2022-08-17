@@ -1,2 +1,3 @@
 # Ransomware
 Full of custom ransomware I made
+I am Not responsible for any damage caused...
